@@ -10,9 +10,11 @@ project/
 │   │       ├── models/         # Data models or schemas
 │   │       ├── routes/         # API route definitions
 │   │       ├── services/       # Business logic services
+│   │       ├── middleware/       # middlewares
 │   │       └── validations/    # Input validation logic
 │   │
 │   ├── config/                 # Configuration settings
+│   │   ├── swagger/           # API design documnettaion
 │   │   ├── config.js           # Configuration settings (e.g., database connection)
 │   │   └── constants.js        # Constants used throughout the application
 │   │
